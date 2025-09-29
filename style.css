@@ -1,9 +1,4 @@
-body{
-    background-color: aqua;
-}
-p{
-    background-color: blue;
-}
-h1{
-    background-color: brown;
+.nav{
+    background-color:pink ;
+    padding: 20px;
 }
